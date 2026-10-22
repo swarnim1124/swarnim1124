@@ -1,83 +1,89 @@
 
 <h1 align="center">Hi 👋, I'm Swarnim Deshpande</h1>
 
-<h3 align="center">Computer Science Engineer | Data Science | AI/ML | Backend Development</h3>
+<h3 align="center">Software Development | Data Analytics | AI & Data Science</h3>
 
 <p align="center">
-  Building practical software solutions with Python, AI, computer vision, data science, and modern backend technologies.
+  Computer Science Engineer focused on building practical applications,
+  extracting insights from data, and exploring AI-powered solutions.
 </p>
 
 <p align="center">
   <a href="https://github.com/swarnim1124">
     <img src="https://img.shields.io/badge/GitHub-swarnim1124-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-2563EB?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Background-Computer%20Science-0F766E?style=for-the-badge" alt="Computer Science"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20%7C%20Data%20%7C%20AI-2563EB?style=for-the-badge" alt="Career focus"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering graduate in **Data Science** from Atria Institute of Technology, Bengaluru.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Large Language Models.
-- 🐍 Experienced with Python, SQL, JavaScript, Java, and C++.
-- ⚙️ Interested in backend development, REST APIs, databases, and cloud-connected applications.
-- 📊 Explore data analytics, data processing, and machine learning workflows.
-- 🏗️ Interested in designing practical, modular, and scalable software systems.
-- 🌱 Continuously learning and building projects to strengthen my engineering skills.
-- 💡 Focused on turning technical concepts into useful, real-world applications.
+- 🎓 Computer Science and Engineering graduate in Data Science from Atria Institute of Technology, Bengaluru.
+- 💻 Interested in software engineering, backend development, and building web applications.
+- 📊 Interested in data analytics, visualization, and business intelligence.
+- 🤖 Explore machine learning, computer vision, and generative AI workflows.
+- 🛠️ Build projects using Python, React, Next.js, TypeScript, SQL, and FastAPI.
+- 🗄️ Work with relational databases, NoSQL databases, and cloud-connected applications.
+- 🌱 Continuously improving my technical skills through hands-on projects.
+- 🎯 Open to opportunities across software development, data analytics, and AI/data science.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp" alt="Python, Java, JavaScript and C++"/>
-</p>
-
-### Frontend Development
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,tailwind" alt="HTML, CSS, React, Next.js, TypeScript and Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" alt="Python, Java, JavaScript, TypeScript and C++"/>
 </p>
 
-### Backend Development
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="FastAPI, Node.js and Express"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="React, Next.js, HTML and CSS"/>
 </p>
 
-### Databases and Cloud
+### ⚙️ Backend Development & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker" alt="PostgreSQL, MongoDB, Firebase and Docker"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
 </p>
 
-### Data Science, AI and Computer Vision
+### 🗄️ Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv,tensorflow" alt="NumPy, Pandas, Scikit-learn, OpenCV and TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="MySQL, PostgreSQL, MongoDB and Firebase"/>
 </p>
 
-### Developer Tools
+### 📊 Data Analytics & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
 
+### 🤖 AI, Machine Learning & Computer Vision
 
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLOv5-Computer%20Vision-111F68?style=for-the-badge" alt="YOLOv5"/>
+  <img src="https://img.shields.io/badge/MediaPipe-Pose%20Estimation-0097A7?style=for-the-badge" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-6C47FF?style=for-the-badge" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
+</p>
 
-### Additional Technical Skills
+### 🔧 Developer Tools & Platforms
 
-- **Data & Analytics:** Data cleaning, data processing, exploratory data analysis, data visualization, SQL.
-- **AI & ML:** Machine learning, NLP, prompt engineering, LLM API integration, retrieval-based workflows.
-- **Computer Vision:** YOLOv5, OpenCV, MediaPipe, image and video processing.
-- **Backend & APIs:** FastAPI, REST APIs, SQLAlchemy, authentication, database integration.
-- **Cloud & Storage:** Firebase Authentication, Cloud Firestore, Firebase Storage.
-- **Other Tools:** Git, GitHub, Docker, Linux, Agile development.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode" alt="Git, GitHub, GitLab, Docker, Linux and VS Code"/>
+</p>
 
 ---
 
@@ -85,76 +91,104 @@
 
 ### 1. Advanced AI Framework for Proactive Industrial Hazard Mitigation and Safety Compliance
 
-An AI-powered industrial safety monitoring framework combining computer vision, IoT sensors, and a centralized dashboard to support hazard detection and workplace safety monitoring.
+An AI and IoT-based industrial safety framework designed to support hazard monitoring, incident tracking, and workplace safety compliance.
 
-**Key modules**
-- Personal Protective Equipment (PPE) compliance detection.
-- Fall detection and pose analysis.
-- Alcohol sensor integration using an MQ-3 sensor and ESP32.
+**Key features**
+- PPE compliance detection.
+- Fall detection and pose estimation.
+- Alcohol sensor integration using ESP32 and MQ-3.
 - Face recognition and attendance workflows.
 - Automatic Number Plate Recognition (ANPR).
-- Vehicle monitoring and potential overspeed alerts.
-- Gesture-based emergency alerts and restricted-zone monitoring.
-- Safety event logging and dashboard analytics.
+- Vehicle monitoring and overspeed alerts.
+- Gesture-based emergency alerts.
+- Restricted-zone intrusion monitoring.
+- Centralized safety dashboard and incident records.
 
-**Technologies:** Next.js, React, TypeScript, Python, Firebase, Gemini Vision, YOLOv5, OpenCV, MediaPipe, EasyOCR, ESP32.
+**Technologies:** Python, Next.js, React, TypeScript, Firebase, YOLOv5, OpenCV, MediaPipe, EasyOCR and IoT hardware.
 
 **Funding acknowledgement:** Government of Karnataka-funded project, as documented by the project owner.
 
-🔗 **Repository:** [AI Industrial Safety Framework](https://github.com/swarnim1124/ai-industrial-safety-framework)
+🔗 [View project repository](https://github.com/swarnim1124/ai-industrial-safety-framework)
 
 ### 2. Educore Android
 
-An academic application project focused on organizing educational workflows and presenting academic information through an Android interface.
+An academic application project focused on presenting educational information and supporting academic workflows through an Android interface.
 
 **Areas of focus**
-- Academic dashboard and module navigation.
-- Student-facing academic information.
+- Academic dashboard.
 - Examination and hall-ticket workflows.
+- Student-facing information.
 - Modular application structure.
 
-**Technologies:** Android, Kotlin, and related tools used in the implementation.
+**Technologies:** Android and Kotlin, as applicable to the implementation.
 
-🔗 **Repository:** [Educore Android](https://github.com/swarnim1124/Educore-android)
+🔗 [View project repository](https://github.com/swarnim1124/Educore-android)
 
 ---
 
-## 📚 Education
+## 💼 Areas of Interest
 
-**Bachelor of Engineering — Computer Science and Engineering (Data Science)**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 Data Analytics</h3>
+      <ul>
+        <li>SQL and data processing</li>
+        <li>Power BI dashboards</li>
+        <li>Data visualization</li>
+        <li>NumPy and Pandas</li>
+        <li>Matplotlib and Seaborn</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI & Data Science</h3>
+      <ul>
+        <li>Machine learning</li>
+        <li>Computer vision</li>
+        <li>LLM integrations</li>
+        <li>Prompt engineering</li>
+        <li>Intelligent applications</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      <ul>
+        <li>React and Next.js</li>
+        <li>Python and FastAPI</li>
+        <li>REST API development</li>
+        <li>Database integration</li>
+        <li>Git-based workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+**B.E. — Computer Science and Engineering (Data Science)**
 
 Atria Institute of Technology, Bengaluru  
-2022–2026
-
-- CGPA: 7.7/10
+2022–2026 | CGPA: 7.7/10
 
 ---
 
-## 📈 GitHub Overview
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnim1124&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=swarnim1124&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnim1124&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnim1124&layout=compact&hide_border=true&theme=transparent"
+    alt="Most used programming languages"
+  />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swarnim1124&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 🎯 Current Interests
-
-- Artificial Intelligence and Machine Learning
-- Generative AI and Large Language Models
-- Data Science and Analytics
-- Backend Engineering and API Development
-- Computer Vision and Intelligent Monitoring Systems
-- Android Application Development
-- Cloud-Connected Software Applications
 
 ---
 
@@ -164,7 +198,7 @@ Atria Institute of Technology, Bengaluru
   <a href="https://github.com/swarnim1124">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/swarnim1124/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -172,5 +206,5 @@ Atria Institute of Technology, Bengaluru
 ---
 
 <p align="center">
-  <i>Learning, building, and improving — one project at a time.</i>
+  <i>Building with code. Learning through data. Exploring the possibilities of AI.</i>
 </p>
