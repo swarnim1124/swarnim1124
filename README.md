@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code"/>
 </p>
 
-> Note: The icons above are a visual overview. Keep only technologies you have actually used, and remove any icons that do not render or do not reflect your experience.
+
 
 ### Additional Technical Skills
 
